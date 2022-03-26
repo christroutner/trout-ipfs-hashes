@@ -1,0 +1,11 @@
+{
+  "content": [
+    {
+      "tags": ["video", "screencast", "tutorial"],
+      "name": "pi-clone",
+      "date": "2022-01-21T17:43:33.566Z",
+      "description": "Instructions on installing the pi-clone software onto a Raspberry Pi 4 running Ubunu.",
+      "ipfsCid": "bafybeidokwuqpzazpxmwv53d3ipf43c6sdokjsyo5iy46lg22udk34ig24"
+    }
+  ]
+}
