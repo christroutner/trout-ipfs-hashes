@@ -1,5 +1,6 @@
 {
-  "content": [
+  "about": "This file contains a list of documents pinned to IPFS nodes for backup and sharing.",
+  "videos": [
     {
       "tags": ["video", "screencast", "tutorial"],
       "name": "pi-clone",
@@ -7,5 +8,12 @@
       "description": "Instructions on installing the pi-clone software onto a Raspberry Pi 4 running Ubunu.",
       "ipfsCid": "bafybeidokwuqpzazpxmwv53d3ipf43c6sdokjsyo5iy46lg22udk34ig24"
     }
-  ]
+  ],
+  "websites": {
+    "tags": [],
+    "name": "Old Trout's Blog",
+    "date": "2022-04-17T00:42:28.692Z",
+    "description": "An older version of Trout's blog.",
+    "ipfsCid": "bafybeicesmklvrh6a32ifzn75rar3ts3hzybojpztbtqamnuyl7r4nnsoi"
+  }
 }
